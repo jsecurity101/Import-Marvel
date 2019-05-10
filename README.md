@@ -9,10 +9,11 @@ To run:
  
 **Note:** This will need to be done in both files. 	
 
-	-  Inside of 'marvel_users.ps1' on line: 36
+-  Inside of 'marvel_users.ps1' on line: 36
 	
-	-  Inside of 'marvel_users.csv' for each user in the 'ou' section
-		**Example:** "CN=thor,DC=example,DC=com" if desired domain is 'example.com'
+-  Inside of 'marvel_users.csv' for each user in the 'ou' section
+
+**Example:** "CN=thor,DC=example,DC=com" if desired domain is 'example.com'
 		
 3. Change the path to which 'marvel_users.csv' is located on line: 6 for 'marvel_users.ps1'
 
