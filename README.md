@@ -19,4 +19,3 @@ To run:
 
 4. Run ./marvel_users.ps1 
 
-5. After script is ran for the first time, will be able to call it by inputting: Import-Marvel
