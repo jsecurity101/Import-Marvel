@@ -1,50 +1,101 @@
 firstname,lastname,username,department,province,password,ou
 Thor,Odenson,thor,Avenger,Asgard,GodofLightning1!,"CN=Users,DC=windomain,DC=local"
+
 Loki, ,loki,Villain,Asgard,Mischief$,"CN=Users,DC=windomain,DC=local"
+
 Carol,Danvers,cmarvel,Avenger,Earth,HateKree!,"CN=Users,DC=windomain,DC=local"
+
 T'Challa, ,panther,Avenger,Earth,WakandaForever!,"CN=Users,DC=windomain,DC=local"
+
 Peter,Parker,spidy,Avenger,Earth,Web$hooter,"CN=Users,DC=windomain,DC=local"
-Tony,Stark,ironman,Avenger,Earth,$acrificed,"CN=Users,DC=windomain,DC=local"
-Natasha,Romanoff,widow,Avenger,Earth,$heildAgent!,"CN=Users,DC=windomain,DC=local"
-Bruce,Banner,hulk,Avenger,Earth,Hulk$mash,"CN=Users,DC=windomain,DC=local"
+
+Tony,Stark,ironman,Avenger,Earth,$acrificed1T,"CN=Users,DC=windomain,DC=local"
+
+Pepper,Pots,pots,Civilian,Earth,MrsIronman$1,"CN=Users,DC=windomain,DC=local"
+
+Bruce,Banner,hulk,Avenger,Earth,$mashEverything!,"CN=Users,DC=windomain,DC=local"
+
 Clint,Barton,hawkeye,Avenger,Earth,EagelEye1!,"CN=Users,DC=windomain,DC=local"
+
 Thanos, ,thanos,Villain,Titan,InfinityStone$,"CN=Users,DC=windomain,DC=local"
+
 Vision, ,vision,Avenger,Computer/Mind-Stone/Earth,Mind$tone,"CN=Users,DC=windomain,DC=local"
+
 Yon-Rogg, ,rogg,Villain,Kree,BadGuy101,"CN=Users,DC=windomain,DC=local"
+
 Rocket,Racoon,rocket,Guardian of Galaxy,Halfworld,NotaRat!,"CN=Users,DC=windomain,DC=local"
-Peter,Quill,starlord,Guardian of Galaxy,Earth,ElementGun%,"CN=Users,DC=windomain,DC=local"
-Groot,Groot,groot,Guardian of Galaxy,Planet X,IamGroot1!,"CN=Users,DC=windomain,DC=local"
+
+Peter,Quill,starlord,Guardian of Galaxy,Earth,Blue$ky!!72,"CN=Users,DC=windomain,DC=local"
+
+Groot,Groot,groot,Guardian of Galaxy,PlanetX,IamGr00t!,"CN=Users,DC=windomain,DC=local"
+
 Yondu,Udonta,yondu,Guardian of Galaxy,Earth-691,WhistleArrow!,"CN=Users,DC=windomain,DC=local"
+
 Drax,Destroyer,drax,Guardian of Galaxy,Earth,KillThano$,"CN=Users,DC=windomain,DC=local"
+
 Gamora,Titan,gamora,Guardian of Galaxy,Zehoberei,Soul$tone,"CN=Users,DC=windomain,DC=local"
+
 Nebula, ,nebula,Guardian of Galaxy,Luphomoids,BadtoGood1,"CN=Users,DC=windomain,DC=local"
+
 Corvus,Glaive,corvus,Black Order,Angargal,$killedWarror,"CN=Users,DC=windomain,DC=local"
+
 Proxima,Midnight,proxima,Black Order,Angargal,EnergySpear!,"CN=Users,DC=windomain,DC=local"
-Cull,Obsidian,cull,Black Order,Angargal,StrongCreature,"CN=Users,DC=windomain,DC=local"
-Ebony,Maw,ebony,Black Order,Angargal,VoldemortWannaBe,"CN=Users,DC=windomain,DC=local"
+
+Cull,Obsidian,cull,Black Order,Angargal,$trongCreature,"CN=Users,DC=windomain,DC=local"
+
+Ebony,Maw,ebony,Black Order,Angargal,VoldemortWannaBe!,"CN=Users,DC=windomain,DC=local"
+
 Steven,Strange,drstrange,Avenger,Earth,Time$tone,"CN=Users,DC=windomain,DC=local"
-Bucky,Barnes,wintersolider,Avenger,Earth,MetalArm,"CN=Users,DC=windomain,DC=local"
-Sam,Wilson,falcon,Avenger,Earth,NewCap,"CN=Users,DC=windomain,DC=local"
+
+Bucky,Barnes,wintersolider,Avenger,Earth,MetalArm1!,"CN=Users,DC=windomain,DC=local"
+
+Sam,Wilson,falcon,Avenger,Earth,NewCap!,"CN=Users,DC=windomain,DC=local"
+
 Steve,Rogers,captain,Avenger,Earth,StarsandStripes!,"CN=Users,DC=windomain,DC=local"
-Wanda,Maximoff,witch,Avenger,Earth,VisionsGF,"CN=Users,DC=windomain,DC=local"
+
+Wanda,Maximoff,witch,Avenger,Earth,Vision$GF,"CN=Users,DC=windomain,DC=local"
+
 Nick,Fury,fury,Shield,Earth,OneEye!,"CN=Users,DC=windomain,DC=local"
+
 Scott,Lang,antman,Avenger,Earth,TinyDude!,"CN=Users,DC=windomain,DC=local"
+
 Hope,Pym,wasp,Avenger,Earth,TinyGril!,"CN=Users,DC=windomain,DC=local"
-James,Rhodes,warmachine,Avenger,Earth,BigGunRox,"CN=Users,DC=windomain,DC=local"
-Pepper,Pots,pots,Civilian,Earth,MsIronman,"CN=Users,DC=windomain,DC=local"
-Valkyrie, ,valkyrie,Valkyrie,Asgard,LastValkyrie,"CN=Users,DC=windomain,DC=local"
-Happy,Hogan,hogan,Civilian,Earth,TonysAssistant,"CN=Users,DC=windomain,DC=local"
-Odin,Odenson,odin,King,Asgard,KingofAsgard,"CN=Users,DC=windomain,DC=local"
+
+James,Rhodes,warmachine,Avenger,Earth,BigGunRox!,"CN=Users,DC=windomain,DC=local"
+
+Valkyrie, ,valkyrie,Valkyrie,Asgard,ChooseroftheSlain!,"CN=Users,DC=windomain,DC=local"
+
+Happy,Hogan,hogan,Civilian,Earth,TonysAssistant!,"CN=Users,DC=windomain,DC=local"
+
+Odin,Odenson,odin,King,Asgard,KingofAsgard!,"CN=Users,DC=windomain,DC=local"
+
 Ultron, ,ultron,Villain,Computer,WhatamI?,"CN=Users,DC=windomain,DC=local"
-Ronan,Accuser,ronan,Villain,Hala,KreeEmpire,"CN=Users,DC=windomain,DC=local"
+
+Ronan,Accuser,ronan,Villain,Hala,KreeEmpire$,"CN=Users,DC=windomain,DC=local"
+
 Charles,Xavier,professorx,X-Men,Earth,Telepath$,"CN=Users,DC=windomain,DC=local"
-Scott,Summers,cyclops,X-Men,Earth,Lazersaretheway,"CN=Users,DC=windomain,DC=local"
-Robert,Drake,iceman,X-Men,Earth,IceIceBaby,"CN=Users,DC=windomain,DC=local"
+
+Scott,Summers,cyclops,X-Men,Earth,Lazer$aretheway,"CN=Users,DC=windomain,DC=local"
+
+Robert,Drake,iceman,X-Men,Earth,IceIceBaby1,"CN=Users,DC=windomain,DC=local"
+
 Henry,McCoy,beast,X-Men,Earth,ImaBea$t,"CN=Users,DC=windomain,DC=local"
+
 Logan,Howlett,wolverine,X-Men,Earth,MetalClaw$,"CN=Users,DC=windomain,DC=local"
-Piotr,Rasputin,colossus,X-Men,Earth,MetalMan,"CN=Users,DC=windomain,DC=local"
-Jean,Grey,pheonix,X-Men,Earth,PhoenixForce,"CN=Users,DC=windomain,DC=local"
-Max,Eisenhardt,magneto,Villain,Earth,MetalControl,"CN=Users,DC=windomain,DC=local"
-Natahan,Summers,cable,X-Force,Future Earth,HalfMan,"CN=Users,DC=windomain,DC=local"
-Brianna,Hildebrands,warhead,X-Men,Earth,TennageWarHead,"CN=Users,DC=windomain,DC=local"
+
+Piotr,Rasputin,colossus,X-Men,Earth,MetalMan!,"CN=Users,DC=windomain,DC=local"
+
+Jean,Grey,pheonix,X-Men,Earth,PhoenixForce!,"CN=Users,DC=windomain,DC=local"
+
+Max,Eisenhardt,magneto,Villain,Earth,MetalControl!,"CN=Users,DC=windomain,DC=local"
+
+Brianna,Hildebrands,warhead,X-Men,Earth,TennageW@rH3ad,"CN=Users,DC=windomain,DC=local"
+
 Wade,Wilson,deadpool,Independent,Earth,NotXmen!,"CN=Users,DC=windomain,DC=local"
+
+Natasha,Romanoff,widow,Avenger,Earth,Hulk$mash,"CN=Users,DC=windomain,DC=local"
+
+Natahan,Summers,cable,X-Force,Future,MetalControl!,"CN=Users,DC=windomain,DC=local"
+
+
+
