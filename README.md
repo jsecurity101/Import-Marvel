@@ -7,7 +7,7 @@ Powershell script and .CSV file that allows you to import marvel characters as u
 3. Sets Service Prinipal Names (SPN)'s for users `thor` and `ironman`. 
 
 
-To run:
+<strong>To run:</strong>
 1. Download 'marvel_users.ps1' and 'marvel_users.csv'.
 
 2. Change domain name to match personal enviroment's domain.
@@ -23,4 +23,7 @@ To run:
 3. Change the path to which 'marvel_users.csv' is located on line: 6 for 'marvel_users.ps1'
 
 4. Run ./marvel_users.ps1 
+
+
+<iframe src="https://giphy.com/embed/vBjLa5DQwwxbi" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doctor-who-marvel-karen-gillan-vBjLa5DQwwxbi">via GIPHY</a></p>
 
