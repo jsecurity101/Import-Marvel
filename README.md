@@ -25,5 +25,5 @@ Powershell script and .CSV file that allows you to import marvel characters as u
 4. Run ./marvel_users.ps1 
 
 
-<img src=https://media.giphy.com/media/vBjLa5DQwwxbi/giphy.gif" />
+<img src="https://media.giphy.com/media/vBjLa5DQwwxbi/giphy.gif" />
 
