@@ -1,5 +1,10 @@
 # Import-Marvel
-Powershell script and .CSV file that allows you to import marvel characters into Active Directory
+Powershell script and .CSV file that allows you to import marvel characters as users into Active Directory
+
+Script will:
+1. Add users into Active Directory
+2. Add users to appropriate groups based off of `marvel_users.csv`.
+3. Set Service Prinipal Names (SPN)'s for users `thor` and `ironman`. 
 
 
 To run:
@@ -9,7 +14,7 @@ To run:
  
 **Note:** This will need to be done in both files. 	
 
--  Inside of 'marvel_users.ps1' on line: 36
+-  Inside of 'marvel_users.ps1' on line: 60, 79, & 80
 	
 -  Inside of 'marvel_users.csv' for each user in the 'ou' section
 
