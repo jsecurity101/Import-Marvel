@@ -25,5 +25,5 @@ Powershell script and .CSV file that allows you to import marvel characters as u
 4. Run ./marvel_users.ps1 
 
 
-<iframe src="https://giphy.com/embed/vBjLa5DQwwxbi" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doctor-who-marvel-karen-gillan-vBjLa5DQwwxbi">via GIPHY</a></p>
+<img src=https://media.giphy.com/media/vBjLa5DQwwxbi/giphy.gif" />
 
