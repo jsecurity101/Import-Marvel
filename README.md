@@ -1,8 +1,10 @@
 # Import-Marvel
 
+<strong>Powershell script and .CSV file that allows you to import marvel characters as users into Active Directory</strong>
+
 <img src="https://media.giphy.com/media/vBjLa5DQwwxbi/giphy.gif" />
 
-Powershell script and .CSV file that allows you to import marvel characters as users into Active Directory
+
 
 <strong>Script:</strong>
 1. Adds users into Active Directory
