@@ -57,7 +57,7 @@ foreach ($User in $ADUsers)
 		
 		New-ADUser `
             -SamAccountName $Username `
-            -UserPrincipalName "$username@shire.com" `
+            -UserPrincipalName "$username@marvel.local" `
             -Name "$firstname $lastname" `
             -GivenName $firstname `
             -Surname $lastname `
@@ -76,7 +76,7 @@ foreach ($User in $ADUsers)
         Write-Output "$username has been to the domain and added to the $identity group"
     }
 
-    setspn -a mjolnir/windomain.local windomain\thor #update domain to match enviroments
-    setspn -a mr3000/windomain.local windomain\ironman #update domain to match enviroments
+    setspn -a mjolnir/marvel.local marvel\thor #update domain to match enviroments
+    setspn -a mr3000/marvel.local marvel\ironman #update domain to match enviroments
 }
 Import-Marvel
