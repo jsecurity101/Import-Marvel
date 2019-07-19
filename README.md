@@ -13,21 +13,21 @@
 
 
 <strong>To run:</strong>
-1. Download 'marvel_users.ps1' and 'marvel_users.csv'.
+1. Download `import_marvel.ps1` and `marvel_users.csv`.
 
 2. Change domain name to match personal enviroment's domain.
  
 **Note:** This will need to be done in both files. 	
 
--  Inside of 'marvel_users.ps1' on line: 60, 79, & 80
+-  Inside of `import_marvel.ps1` on line: 60, 79, & 80
 	
--  Inside of 'marvel_users.csv' for each user in the 'ou' section
+-  Inside of `marvel_users.csv` for each user in the `ou` section
 
-**Example:** "CN=thor,DC=example,DC=com" if desired domain is 'example.com'
+**Example:** `"CN=thor,DC=example,DC=com"` if desired domain is `example.com`
 		
-3. Change the path to which 'marvel_users.csv' is located on line: 6 for 'marvel_users.ps1'
+3. Change the path to which 'marvel_users.csv' is located on line: 6 for `import_marvel.ps1`.
 
-4. Run ./marvel_users.ps1 
+4. Run `./import_marvel.ps1`
 
 
 
