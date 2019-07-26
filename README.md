@@ -27,7 +27,7 @@
 		
 3. Change the path to which 'marvel_users.csv' is located on line: 6 for `import_marvel.ps1`.
 
-4. Run `./import_marvel.ps1`
+4. Run `.\import_marvel.ps1`
 
 
 
