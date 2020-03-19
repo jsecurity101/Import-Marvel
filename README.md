@@ -25,7 +25,9 @@
 
 **Example:** `"CN=thor,DC=example,DC=com"` if desired domain is `example.com`
 		
-3. Change the path to which 'marvel_users.csv' is located on line: 6 for `import_marvel.ps1`.
+3. Change the path to which 'marvel_users.csv' is located on line 24 for `import_marvel.ps1`.
+
+4. Change the path to which `quotes.txt` is located on line 83 for `import_marvel.ps1`
 
 4. Run `.\import_marvel.ps1`
 

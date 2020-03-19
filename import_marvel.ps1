@@ -78,5 +78,10 @@ foreach ($User in $ADUsers)
 
     setspn -a mjolnir/marvel.local marvel\thor #update domain to match enviroments
     setspn -a mr3000/marvel.local marvel\ironman #update domain to match enviroments
+
+    #Update path for quotes.txt
+    $quotes = gc C:\quotes.txt
+
+    Get-Random -InputObject $quotes -Count 1
 }
 Import-Marvel
