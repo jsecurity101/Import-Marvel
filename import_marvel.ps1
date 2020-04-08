@@ -21,7 +21,7 @@ Import-Module activedirectory
   
 #Update the path to where the .csv file is stored. 
 
-$ADUsers = Import-csv C:\Marvel-Lab\Earth-DC\Import-Marvel\marvel_users.csv
+$ADUsers = Import-csv C:\marvel_users.csv
 
 #Adding AD Group for Local Admins on Workstations
 New-ADGroup -Name "Local Admins" -SamAccountName LocalAdmins -GroupCategory Security -GroupScope Global -DisplayName "Local Admins" -Path "CN=Users,DC=marvel,DC=local" -Description "Members of this group are Local Administrators on Workstations"
