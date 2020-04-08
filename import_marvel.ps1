@@ -1,4 +1,4 @@
-﻿#Jonathan Johnson
+#Jonathan Johnson
 #github:https://github.com/jsecurity101
 
 Write-Output "
@@ -54,7 +54,11 @@ foreach ($User in $ADUsers)
 
 	{
         #Update to UserPrincipalName to match personal domain. Ex: If domain is: example.com. Should read as - $Username@example.com
-		
+        #Update "-Path" on line 58 to match domain.
+
+		New-ADGroup -Name "Local Admins" -SamAccountName LocalAdmins -GroupCategory Security -GroupScope Global -DisplayName "Local Admins" -Path "CN=Users,DC=marvel,DC=local" -Description "Members of this group are Lo
+cal Administrators on Workstations"
+
 		New-ADUser `
             -SamAccountName $Username `
             -UserPrincipalName "$username@marvel.local" `
@@ -78,10 +82,5 @@ foreach ($User in $ADUsers)
 
     setspn -a mjolnir/marvel.local marvel\thor #update domain to match enviroments
     setspn -a mr3000/marvel.local marvel\ironman #update domain to match enviroments
-
-    #Update path for quotes.txt
-    $quotes = gc C:\quotes.txt
-
-    Get-Random -InputObject $quotes -Count 1
 }
 Import-Marvel
