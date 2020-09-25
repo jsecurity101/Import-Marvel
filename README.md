@@ -19,7 +19,7 @@
  
 **Note:** This will need to be done in both files. 	
 
--  Inside of `import_marvel.ps1` on line: 60, 79, & 80
+-  Inside of `import_marvel.ps1`
 	
 -  Inside of `marvel_users.csv` for each user in the `ou` section
 
